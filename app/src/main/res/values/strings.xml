@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">crafts</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">your name</string>
+    <string name="mobile">your mobile</string>
+    <string name="register">regester now</string>
+    <string name="bulding">bulding</string>
+    <string name="car_maintenance">car maintenance</string>
+    <string name="condition">condition</string>
+    <string name="elctric">elctric</string>
+    <string name="improvement">improvement</string>
+    <string name="insects">insects</string>
+    <string name="modelling">modelling</string>
+    <string name="paint">paint</string>
+    <string name="party">party</string>
+    <string name="pipes">pipes</string>
+    <string name="planting">planting</string>
+    <string name="solar">solar</string>
+    <string name="tiles">tiles</string>
+    <string name="transfer">transfer</string>
+    <string name="windows">windows</string>
+    <string name="completeFileds">complete fileds</string>
+    <string name="aboutUs">about us</string>
+    <string name="contactUs">contact us</string>
+    <string name="logout">log out</string>
+    <string name="aboutUsText"> كرافتس , تطبيق ذكي يقوم بمساعدتك بتصميم و هندسة ديكورات منزلك وفق معايير هنديسة دقيقة وجذابة , و أيضا يقوم بمساعدتك لتصليح كافة الأعطال المنزل كالكهرباء والسباكة والاثاث والدهان و التكييف و مكافحة الحشرات و أمور التنظيف و النقل , بكل بساطة , حمل التطبيق من المتجر وقم بطلب الخدمة و دع فريق المهندسين والفنيين لدينا يتكفل بالأمر  </string>
+    >
+    <string name="message">message</string>
+    <string name="send">send now</string>
+    <string name="confirmLogOut">are you sure to logout</string>
+    <string name="solarW">water slolar</string>
+    <string name="finish">finish</string>
+    <string name="delete">delete</string>
+    <string name="areYouSureToDelete">are you sure to delete this job</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+    <string name="addressDetails">Adress Details :</string>
+    <string name="workDate">Work date :</string>
+    <string name="workTime">work time :</string>
+    <string name="enterTime">time</string>
+    <string name="date">date</string>
+    <string name="rowMaterial">Row Material :</string>
+    <string name="withRow">with row</string>
+    <string name="withoutRow">without row</string>
+    <string name="moreDetails">more detals about work :</string>
+    <string name="aboutWork">more details</string>
+    <string name="submit">submit</string>
+    <string name="special">special</string>
+    <string name="providingSuccessfully">providing successfully</string>
+    <string name="sendSuccessfully">send successfully</string>
+    <string name="facebook">facebook</string>
+    <string name="rateApp">rate app</string>
+    <string name="noInternetConnectio">No Internet connection</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="welCome">welcome</string>
+    <string name="yourName">your name</string>
+    <string name="signUp">sing up</string>
+    <string name="alreadyhaveAcount">already hava account</string>
+    <string name="signin">sing in</string>
+    <string name="welComeBack">welcome back</string>
+    <string name="forgetPassword">forget password</string>
+    <string name="error">error</string>
+    <string name="realDate">please enter a real date and time</string>
+    <string name="dontHaveAccount">dont have account</string>
+    <string name="noJob">No  jobs yet</string>
+    <string name="provideNow">provide now</string>
+
+
+</resources>

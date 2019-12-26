@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">كرافتس</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">الاسم</string>
+    <string name="mobile">رقم الهاتف</string>
+    <string name="register">الانضمام الان</string>
+    <string name="bulding">بناء</string>
+    <string name="car_maintenance">صيانة سيارات</string>
+    <string name="condition">صيانة مكيفات</string>
+    <string name="elctric">كهرباء</string>
+    <string name="improvement">تطوير</string>
+    <string name="insects">مكافحة حشرات</string>
+    <string name="modelling">أشفال عامة</string>
+    <string name="paint">أعمال دهان</string>
+    <string name="party">تنسيق حفلات</string>
+    <string name="pipes">سباكة</string>
+    <string name="planting">تنسيق الحدائق</string>
+    <string name="solar">خلايا شمسية</string>
+    <string name="tiles">بلاط و أرضيات</string>
+    <string name="transfer">نقليات عامة</string>
+    <string name="windows">نوافذ و زجاج</string>
+    <string name="completeFileds">الرجاء ملئ الحقول</string>
+    <string name="aboutUs">من نحن</string>
+    <string name="contactUs">تواصل معنا</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="aboutUsText"> كرافتس , تطبيق ذكي يقوم بمساعدتك بتصميم و هندسة ديكورات منزلك وفق معايير هنديسة دقيقة وجذابة , و أيضا يقوم بمساعدتك لتصليح كافة الأعطال المنزل كالكهرباء والسباكة والاثاث والدهان و التكييف و مكافحة الحشرات و أمور التنظيف و النقل , بكل بساطة , حمل التطبيق من المتجر وقم بطلب الخدمة و دع فريق المهندسين والفنيين لدينا يتكفل بالأمر . </string>>
+    <string name="message">الرسالة</string>
+    <string name="send">أرسل الان</string>
+    <string name="confirmLogOut">هل أنت متأكد من الخروج</string>
+    <string name="solarW">سخانات شمسية</string>
+    <string name="finish">انهاء</string>
+    <string name="delete">انهاء</string>
+    <string name="areYouSureToDelete">هل أنت متأكد من انهاء هذه الخدمة</string>
+    <string name="ok">ok</string>
+    <string name="cancel">الغاء</string>
+    <string name="addressDetails">تفاصيل العنوان :</string>
+    <string name="workDate">تاريخ العمل :</string>
+    <string name="workTime">وقت العمل :</string>
+    <string name="enterTime">الوقت</string>
+    <string name="date">التاريخ</string>
+    <string name="rowMaterial">المواد الخام :</string>
+    <string name="withRow">مع المواد</string>
+    <string name="withoutRow">بدون المواد</string>
+    <string name="moreDetails">تفاصيل أخرى عن العمل :</string>
+    <string name="aboutWork">التفاصيل</string>
+    <string name="submit">طلب الان</string>
+    <string name="special">خاص</string>
+    <string name="providingSuccessfully">تم الطلب بنجاح</string>
+    <string name="sendSuccessfully">تم الارسال بنجاح</string>
+    <string name="facebook">فيسبوك</string>
+    <string name="rateApp">قيم التطبيق</string>
+    <string name="noInternetConnectio">لا يوجد اتصال بالشبكة</string>
+    <string name="email">الايميل</string>
+    <string name="password">كلمة المرور</string>
+    <string name="welCome">أهلا و سهلا</string>
+    <string name="yourName">الاسم</string>
+    <string name="signUp">الانضمام</string>
+    <string name="alreadyhaveAcount">لدي حساب بالفعل</string>
+    <string name="signin">تسجيل الدخول</string>
+    <string name="welComeBack">أهلا بك مجدداً</string>
+    <string name="forgetPassword">نسيت كلمة المرور</string>
+    <string name="error">حدث خطأ ما</string>
+    <string name="realDate">الرجاء ادخال تاريخ و وقت حقيقيين</string>
+    <string name="dontHaveAccount">ليس لدي حساب</string>
+    <string name="noJob">لا مهام مطلوبة</string>
+    <string name="provideNow">اطلب الان</string>
+
+
+</resources>
