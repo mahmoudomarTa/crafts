@@ -38,11 +38,6 @@ public class Request {
         this.withRow = withRow;
     }
 
-    public static String COL_NAME ="name";
-    public static String COL_DATE ="date";
-    public static String COL_IS_FINISHED ="is_finished";
-    public static String TABLE_NAME ="requests";
-    public static String CREATE_TABLE = "create table "+TABLE_NAME+" ( "+COL_NAME+" text , "+COL_DATE+" long , "+COL_IS_FINISHED+" integer )";
 
     public Request(){}
 
